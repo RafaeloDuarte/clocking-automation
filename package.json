@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "robotjs": "^0.6.0",
     "selenium": "^2.20.0",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
